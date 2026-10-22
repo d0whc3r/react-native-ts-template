@@ -47,7 +47,7 @@
     "eslint-config-prettier": "6.13.0",
     "eslint-plugin-prettier": "3.1.4",
     "eslint-plugin-react": "7.21.4",
-    "expo": "39.0.3",
+    "expo": "48.0.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.5.3",
     "jest-chain": "1.1.5",
